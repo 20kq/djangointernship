@@ -1,0 +1,12 @@
+div{
+	<    background-color: silver;
+    margin-left: 30%;
+    margin-right: 30px;
+    padding: 20px;
+}
+h3{
+	background-color: darksalmon;
+    text-align: center;
+    padding: 15px;
+    border: groove;
+}
